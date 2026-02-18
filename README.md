@@ -7,7 +7,7 @@
 ```markdown
 # ZFS-Linux
 
-ZFS-Linux is an experimental fork and learning project based on OpenZFS,  
+This ZFS-Linux was an experimental fork and first ever industry port of the ZFS project, ported by Praveen Kumar, based on OpenZFS (ver 0.6.5.7),  
 focused on exploring advanced filesystem features in Linux environments.
 
 ---
